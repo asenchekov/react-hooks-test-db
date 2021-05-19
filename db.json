@@ -1,4 +1,5 @@
-[
+{
+  "address-lookup": [
     {
       "address_components": [
         {
@@ -507,4 +508,10 @@
         "id": 17,
         "region": "Yorkshire and the Humber"
       }
-    ]
+    ],
+    "meta": null,
+    "error": null,
+    "success": true,
+    "statusCode": 200
+  }
+}
